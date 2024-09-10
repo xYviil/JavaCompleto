@@ -4,15 +4,15 @@ public class FuncoesInteressantesString {
 
         String original = "abcde FGHIJ ABC abc DEFG       ";
 
-        String s01 = original.toLowerCase();
-        String s02 = original.toUpperCase();
-        String s03 = original.trim();
-        String s04 = original.substring(2);
-        String s05 = original.substring(2, 9);
-        String s06 = original.replace("a", "x");
-        String s07 = original.replace("abc", "xyz");
-        int i = original.indexOf("bc");
-        int j = original.lastIndexOf("bc");
+        String s01 = original.toLowerCase(); // transforma tudo em minusculo
+        String s02 = original.toUpperCase(); // transforma em maiusculo
+        String s03 = original.trim(); // retira espaços
+        String s04 = original.substring(2); // pega a partir do numero escolhido
+        String s05 = original.substring(2, 9); // de um até outro
+        String s06 = original.replace("a", "x"); // substitui
+        String s07 = original.replace("abc", "xyz"); //substitui
+        int i = original.indexOf("bc"); // primeira vez q aparece
+        int j = original.lastIndexOf("bc"); // ultima vez q aparece
 
 
         System.out.println("Original : " + original + "-");
