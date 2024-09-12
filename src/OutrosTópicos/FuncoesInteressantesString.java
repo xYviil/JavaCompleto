@@ -1,3 +1,5 @@
+package OutrosTópicos;
+
 public class FuncoesInteressantesString {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package OutrosTópicos;
+
 import java.util.Scanner;
 
 public class Funcoes {
