@@ -19,6 +19,10 @@ public class Problema2 {
         System.out.print("Quantity: ");
         product.quantity = sc.nextInt();
 
+        System.out.println(product);
+
+
+
 
         //System.out.printf("Name= %s%nPrice = %.2f%nQuantity = %d%n",product.name, product.price, product.quantity);
 
