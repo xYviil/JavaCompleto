@@ -22,13 +22,13 @@ public class Problema2 {
         System.out.println("Product data: " + product);
         System.out.println();
         System.out.println("Enter the number of products to be added in stock: ");
-        int quantity = sc.nextInt();
-        product.addProducts(quantity);
+        int quantidade = sc.nextInt();
+        product.addProducts(quantidade);
         System.out.println("Updated data: " + product);
         System.out.println();
         System.out.println("Enter the number of products to be removed from stock: ");
-        quantity = sc.nextInt();
-        product.removeProducts(quantity);
+        quantidade = sc.nextInt();
+        product.removeProducts(quantidade);
         System.out.println("Updated data: " + product);
 
         //System.out.printf("Name= %s%nPrice = %.2f%nQuantity = %d%n",product.name, product.price, product.quantity);

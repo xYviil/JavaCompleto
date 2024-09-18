@@ -17,9 +17,7 @@ public class Exercicio1 {
         retangulo.altura = sc.nextDouble();
         System.out.println("Digite o valor da largura do retângulo:");
         retangulo.largura = sc.nextDouble();
-
-        System.out.printf("area=%.2f%n perímetro=%.2f%n diagonal=%.3f ",retangulo.area(),retangulo.perimetro(), retangulo.diagonal());
-
+        System.out.print("Área:" + retangulo.area() + "\nPerímetro=" + retangulo.perimetro() + "\nDiagonal=" + retangulo.diagonal());
         sc.close();
 
     }
