@@ -11,7 +11,7 @@ public class Employee {
     }
 
     public String toString() {
-        return String.format("%s $ %.2f ", nome, (netSalary((salarioBruto))));
+        return String.format("%s $ %.2f ", nome, (netSalary(salarioBruto)));
     }
 
     public void increaseSalary(double percentage) {
