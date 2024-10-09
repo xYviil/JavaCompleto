@@ -43,7 +43,7 @@ public class Exercicio5 {
 
         BankAccount bankAccount = new BankAccount(numberAccount, nameAccount, initialValue);
 
-        System.out.printf("Dados da conta:%nConta: %d%nTitular: %s%nValor em conta: R$%.2f%n", bankAccount.getNumberAccount(), bankAccount.getNameAccount(), bankAccount.getBalance());
+        System.out.println(bankAccount);
         System.out.println();
         System.out.println("Digite o valor do depósito:");
         double deposit = sc.nextDouble();
