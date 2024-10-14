@@ -28,8 +28,6 @@ public class Array1 {
 
         System.out.printf("Média de altura: %.2f%n ", media);
 
-
-
         sc.close();
 
     }
