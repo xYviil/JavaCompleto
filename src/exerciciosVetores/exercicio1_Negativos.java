@@ -6,7 +6,7 @@ package exerciciosVetores;
 import entities.Negativos;
 import java.util.Scanner;
 
-public class exercicio1 {
+public class exercicio1_Negativos {
     public static void main (String[] args) {
 
         Scanner sc = new Scanner(System.in);

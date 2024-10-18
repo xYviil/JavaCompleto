@@ -6,7 +6,7 @@ package exerciciosVetores;
 import entities.SomaVetor;
 import java.util.Scanner;
 
-public class exercicio2 {
+public class exercicio2_SomaVetor {
 
     public static void main(String[] args) {
 

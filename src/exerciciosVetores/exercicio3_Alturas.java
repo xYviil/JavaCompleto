@@ -7,7 +7,7 @@ package exerciciosVetores;
 import entities.Alturas;
 import java.util.Scanner;
 
-public class exercicio3 {
+public class exercicio3_Alturas {
 
     public static void main(String[] args) {
 
