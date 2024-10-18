@@ -19,7 +19,6 @@ public class exercicio6_SomaVetores {
         SomaVetores [] vectB = new SomaVetores[n];
         SomaVetores [] vectC = new SomaVetores[n];
 
-
         System.out.println("Digite os valores do vetor A:");
         for (int i = 0; i < vectA.length; i++) {
             int valoresA = sc.nextInt();
