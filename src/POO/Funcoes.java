@@ -1,4 +1,4 @@
-package OutrosTópicos;
+package POO;
 
 import java.util.Scanner;
 
