@@ -1,6 +1,4 @@
-package POO;
-
-import entities.Account;
+package entities;
 
 public class BusinessAccount extends Account {
 

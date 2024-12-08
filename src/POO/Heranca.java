@@ -1,6 +1,7 @@
 package POO;
 
 import entities.Account;
+import entities.BusinessAccount;
 import entities.SavingsAccount;
 
 public class Heranca {
