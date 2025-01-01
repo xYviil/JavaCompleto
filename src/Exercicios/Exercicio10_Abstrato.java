@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Exericio10_Abstrato {
+public class Exercicio10_Abstrato {
 
     public static void main(String[] args) {
 
