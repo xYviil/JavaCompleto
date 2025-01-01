@@ -1,4 +1,4 @@
-package POO;
+package arquivos;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
