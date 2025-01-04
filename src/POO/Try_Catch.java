@@ -3,7 +3,7 @@ package POO;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class try_catch {
+public class Try_Catch {
 
 public static void main(String[] args) {
 

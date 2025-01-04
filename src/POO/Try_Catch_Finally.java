@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class try_catch_finally {
+public class Try_Catch_Finally {
 
     public static void main(String[] args) {
 
